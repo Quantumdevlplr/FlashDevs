@@ -53,7 +53,7 @@ const Navbar = () => {
               >
                 <Zap className="h-8 w-8 text-indigo-600" />
               </motion.div>
-              <span className="ml-2 text-2xl font-bold text-gray-900">Flash<span className="text-indigo-600">Devs</span></span>
+              <span className="ml-2 text-2xl font-bold text-gray-900">Flash<span className="text-yellow-300">Devs</span></span>
             </div>
           </motion.div>
           
