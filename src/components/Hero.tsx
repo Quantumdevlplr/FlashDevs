@@ -32,7 +32,7 @@ const Hero = () => {
               </motion.span>
             </h1>
             <motion.p 
-              className="mt-6 text-base text-gray-500 sm:text-lg md:text-xl"
+              className="mt-6 text-base text-black sm:text-lg md:text-xl"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.6, duration: 0.6 }}
@@ -76,13 +76,13 @@ const Hero = () => {
           >
             <div className="relative mx-auto w-full rounded-lg shadow-lg lg:max-w-md">
               <motion.div 
-                className="relative block w-full bg-white rounded-lg overflow-hidden"
+                className="relative block w-full bg-yellow-200 rounded-lg overflow-hidden"
                 whileHover={{ scale: 1.03 }}
                 transition={{ duration: 0.3 }}
               >
                 <img
                   className="w-full"
-                  src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src="https://res.cloudinary.com/dvoned9mv/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1740809667/fuou56hzmflvmash5ui4.png"
                   alt="Team of developers working together"
                 />
                 <div className="absolute inset-0 bg-indigo-600 mix-blend-multiply opacity-20"></div>

@@ -172,7 +172,7 @@ const Features = () => {
             >
               <img
                 className="h-full w-full object-cover"
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://res-console.cloudinary.com/dvoned9mv/media_explorer_thumbnails/7efb37f3c162bd8fea6f4f6592214975/detailed"
                 alt="Team collaboration"
               />
             </motion.div>
